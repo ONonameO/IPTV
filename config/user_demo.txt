@@ -34,30 +34,29 @@ CCTV-卫生健康
 CCTV-中学生
 
 🌊港·澳·台,#genre#
-凤凰中文
-凤凰资讯
-凤凰香港
-凤凰卫视
-TVB-翡翠台
-TVB-明珠台
-TVB-1
-TVB-J1
-TVB-Plus
-TVB-无线新闻
-TVB-星河
-TVB-明珠剧集
-TVB-翡翠剧集
-TVB-翡翠娱乐
-Viutv
+凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+TVB-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+TVB-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+TVB-1,http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
+TVB-J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+TVB-Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+TVB-无线新闻,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+TVB-星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB-明珠剧集,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+TVB-翡翠剧集,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+TVB-翡翠娱乐,http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
+Viutv,
 香港卫视
-TVBS
-TVBS-新闻
-纬来体育
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS-新闻,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 纬来育乐
 东森综合
 东森超视
-东森电影
-东森新闻
+东森电影,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 三立台湾
 三立新闻
 
@@ -66,21 +65,9 @@ TVBS-新闻
 广东珠江
 广东体育
 广东新闻
-广东卫视
 广东民生
 广东卫视
 深圳卫视
-佛山综合
-广州综合
-广州影视
-广州竞赛
-江门综合
-江门侨乡生活
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
 
 📡地方卫视,#genre#
 湖南卫视
@@ -117,74 +104,19 @@ TVBS-新闻
 新疆卫视
 云南卫视
 
-🎬电影频道,#genre#
-CHC家庭影院
-CHC动作电影
-CHC高清电影
-淘剧场
-淘娱乐
-淘电影
-NewTV惊悚悬疑
-NewTV动作电影
-黑莓电影
-纬来电影
-靖天映画
-靖天戏剧
-星卫娱乐
-艾尔达娱乐
-经典电影
-IPTV经典电影
-天映经典
-无线星河
-星空卫视
-私人影院
-东森电影
-龙祥电影
-东森洋片
-东森超视
-
 🏀体育频道,#genre#
 CCTV-5 体育
 CCTV-5+ 体育赛事
 CCTV-风云足球
 广东体育
-纬来体育
-五星体育
-体育赛事
-劲爆体育
-爱体育
-超级体育
-精品体育
-广州竞赛
-深圳体育
-福建体育
-辽宁体育
-山东体育
-成都体育
-天津体育
-江苏体育
-安徽综艺体育
-吉林篮球
-睛彩篮球
-睛彩羽毛球
-睛彩广场舞
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 足球频道
 魅力足球
-Sky Sports F1
-Astro Football
-Astro Sport UHD
-EuroSport 1
-EuroSport 2
-TNT SPORTS 1
-TNT SPORTS 2
-TNT SPORTS 3
-
-🎵音乐频道,#genre#
-CCTV-15 音乐
-CCTV-风云音乐
-音乐现场
-音乐之声
-潮流音乐
-天津音乐
-音乐广播
-音乐调频广播
+Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
