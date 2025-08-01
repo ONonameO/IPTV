@@ -34,29 +34,29 @@ CCTV-卫生健康
 CCTV-中学生
 
 🌊港·澳·台,#genre#
-凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-TVB-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-TVB-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-TVB-1,http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
-TVB-J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-TVB-Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVB-无线新闻,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-TVB-星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVB-明珠剧集,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-TVB-翡翠剧集,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-TVB-翡翠娱乐,http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
+凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8$!
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8$!
+凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8$!
+TVB-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8$!
+TVB-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8$!
+TVB-1,http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8$!
+TVB-J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8$!
+TVB-Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8$!
+TVB-无线新闻,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8$!
+TVB-星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8$!
+TVB-明珠剧集,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8$!
+TVB-翡翠剧集,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8$!
+TVB-翡翠娱乐,http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8$!
 Viutv,
 香港卫视
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS-新闻,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8$!
+TVBS-新闻,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8$!
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8$!
 纬来育乐
 东森综合
 东森超视
-东森电影,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8$!
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8$!
 三立台湾
 三立新闻
 
@@ -109,14 +109,14 @@ CCTV-5 体育
 CCTV-5+ 体育赛事
 CCTV-风云足球
 广东体育
-纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8$!
 足球频道
 魅力足球
-Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8$!
+Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8$!
+Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8$!
+EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8$!
+EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8$!
+TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8$!
+TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8$!
+TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8$!
